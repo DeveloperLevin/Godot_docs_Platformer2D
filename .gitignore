@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Godot temporary and cache files
+*.import/
+.import/
+
+# Backup files
+*.tmp
+*.save
+*.converted
+*.fscache
